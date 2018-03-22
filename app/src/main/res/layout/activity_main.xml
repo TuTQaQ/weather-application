@@ -52,7 +52,7 @@
             android:layout_gravity="center"
             android:background="@drawable/button_selector"
             android:gravity="center"
-            android:onClick="btnClick"
+
 
             android:paddingLeft="40dp"
             android:paddingRight="40dp"
@@ -115,7 +115,7 @@
                     android:background="@drawable/refresh_button"
                     android:layout_marginTop="80dp"
                     android:layout_width="20dp"
-                    android:onClick="btnClick"
+
                     android:layout_height="20dp" />
             </RelativeLayout>
             <RelativeLayout
